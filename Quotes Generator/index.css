@@ -1,0 +1,22 @@
+body{
+    margin: 260px;
+    
+    background-color: lightpink;
+    text-align: center;
+}
+#quoteDisplay {
+    font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+#authorDisplay {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: right;
+}
+#newQuote {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    
+}
